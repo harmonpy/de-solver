@@ -1,2 +1,2 @@
-# ode-solver
-A collection of numerical ode solver
+# de-solver
+A collection of numerical differential equation (de) solver
